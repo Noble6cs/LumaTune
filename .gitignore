@@ -70,6 +70,10 @@ dist
 qa/
 renderer.js
 
+# Local Codex workflow notes
+Electron边编辑边运行与演示指南.md
+Electron编译与打包指南.md
+
 publish/assets
 
 publish/utils/githubToken.js
