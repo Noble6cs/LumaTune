@@ -1,5 +1,5 @@
 # LumaTune
-基于洛雪音乐LX Music，美化了流光播放器和歌单页面。
+一款基于洛雪音乐LX Music，增加流光播放器和歌单页面的免费音乐播放器。
 
 [下载地址](https://github.com/Noble6cs/LumaTune/releases/tag/v2.12.2)
 
@@ -9,7 +9,7 @@
 
 安装包：lx-music-desktop-v2.12.2-x64-Setup.exe；
 
-如果不想安装，请下载lx-music-desktop-v2.12.2-win_x64-green.7z，解压使用。
+如果不想安装，请下载lx-music-desktop-v2.12.2-win_x64-green.zip，解压使用。
 
 本项目是基于 [LX Music（洛雪音乐助手）](https://github.com/lyswhut/lx-music-desktop) 开源项目修改的非官方版本，不代表 LX Music 官方立场。
 
