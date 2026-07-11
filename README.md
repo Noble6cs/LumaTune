@@ -3,11 +3,10 @@
 
 ## 流光律首次公开版本
 
-本项目是基于 LX Music（洛雪音乐助手）开源项目修改的非官方版本，
+本项目是基于 [LX Music（洛雪音乐助手）](https://github.com/lyswhut/lx-music-desktop) 开源项目修改的非官方版本，
 不代表 LX Music 官方立场。
 
-播放器背景算法参考：
-https://github.com/jayfunc/BetterLyrics
+播放器背景算法参考 [jayfunc/BetterLyrics](https://github.com/jayfunc/BetterLyrics)。
 
 ### 主要修改
 
