@@ -12,6 +12,7 @@
 如果不想安装，请下载lx-music-desktop-v2.12.2-win_x64-green.7z，解压使用。
 
 本项目是基于 [LX Music（洛雪音乐助手）](https://github.com/lyswhut/lx-music-desktop) 开源项目修改的非官方版本，不代表 LX Music 官方立场。
+
 播放器背景算法参考 [BetterLyrics](https://github.com/jayfunc/BetterLyrics)。
 
 ### 主要修改
@@ -32,8 +33,10 @@
 ## 使用教程
 ### 1.导入音源
 推荐音源：
+
 LX 官方源可下载
 https://raw.githubusercontent.com/pdone/lx-music-source/main/lx/latest.js
+
 Grass
 https://raw.githubusercontent.com/pdone/lx-music-source/main/grass/latest.js
 
