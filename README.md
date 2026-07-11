@@ -16,3 +16,5 @@
 - 支持前台状态下的播放快捷键
 
 请遵守原项目许可证与补充协议，支持正版音乐。
+<img width="2557" height="1599" alt="image" src="https://github.com/user-attachments/assets/23685b3d-2da5-43a1-a723-6c3b9eeb9bab" />
+![Uploading image.png…]()
